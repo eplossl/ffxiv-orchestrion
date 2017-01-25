@@ -967,7 +967,53 @@
         "comment": "MSQ Reward, cannot be missed"
       }
     },
-
+{
+      "id": 77,
+      "title": "The Seventh Sun",
+      "url": "",
+      "source": {
+        "comment": "Obtained upon completion of Leader of the Band V"
+      }
+    },
+    
+    {
+      "id": 78,
+      "title": "Smoulder",
+      "url": "",
+      "source": {
+        "comment": "Beast tribe currency exchange - Amal'ja"
+      }
+    },
+    
+    {
+      "id": 79,
+      "title": "Coming Home",
+      "url": "",
+      "source": {
+        "comment": "Beast tribe currency Exchange - Vanu Vanu"
+      }
+    },
+    
+    {
+      "id": 80,
+      "title": "Nobility Sleeps",
+      "url": "",
+      "source": {
+        "comment": "Frine in Ishgard, The Pillars (6.0, 9.9) (Far end of Jeweled Crozier) - 5,000 gil"
+      }
+    },
+    
+    {
+      "id": 81,
+      "title": "Night in the Brume",
+      "url": "",
+      "source": {
+        "comment": "Frine in Ishgard, The Pillars (6.0, 9.9) (Far end of Jeweled Crozier) - 5,000 gil"
+      }
+    },
+    
+    
+    
     {
       "id": 0,
       "title": "Pa-Paya",
